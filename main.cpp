@@ -1,5 +1,6 @@
 // Miguel Caringal
 // Final Project
+// Inverses are found using Gauss Jordan Elimination
 #include <iostream>
 #include <vector>
 #include <cmath>
